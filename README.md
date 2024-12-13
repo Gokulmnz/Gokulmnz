@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GOKUL</h1>
-<h3 align="center">A passionate blockchain developer from India</h3>
+
 <div align="center">
  
 ![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
