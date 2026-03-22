@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am an MCA student at Cochin University of Engineering & Technology (CET) with a strong passion for software development and problem-solving. Currently, I am exploring the DevOps journey and building a tech startup called **TrackVest**. 
+I am an MCA student at COLLEGE OF ENGINEERING TRIVANDRUM (CET) with a strong passion for software development and problem-solving. Currently, I am exploring the DevOps journey and building a tech startup called **TrackVest**. 
 
 * 🐍 **Coding:** Actively solving algorithmic challenges on LeetCode, primarily using Python. 
 * 🌱 **Currently Exploring:** Retrieval-Augmented Generation (RAG), advanced version control with Git, and network analysis.
