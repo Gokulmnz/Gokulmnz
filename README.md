@@ -20,9 +20,8 @@
 I am an MCA student at Cochin University of Engineering & Technology (CET) with a strong passion for software development and problem-solving. Currently, I am exploring the DevOps journey and building a tech startup called **TrackVest**. 
 
 * 🐍 **Coding:** Actively solving algorithmic challenges on LeetCode, primarily using Python. 
-* 🏆 **Milestones:** Recently qualified for the UGC NET in Computer Science (93rd percentile).
 * 🌱 **Currently Exploring:** Retrieval-Augmented Generation (RAG), advanced version control with Git, and network analysis.
-* 📫 **Reach out to me:** [Twitter](https://twitter.com/gokulmnz) | [Instagram](https://instagram.com/gokulmnz)
+
 
 ---
 
