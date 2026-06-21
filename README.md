@@ -55,10 +55,7 @@ I find that genuinely interesting, not just resume-worthy.
 
 ---
 
-### 🏆 Signals
 
-- 🥇 **All Kerala LBS MCA Entrance — AIR 9** (out of 3,500+ candidates)
-- 📜 **UGC NET Qualified PHD — 93rd Percentile**
 
 ---
 
